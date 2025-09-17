@@ -194,10 +194,6 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
 ### Development Setup
 
 1. Fork the repository
@@ -228,7 +224,7 @@ black scraper.py
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the EOS
 
 ## 🙏 Acknowledgments
 
@@ -236,17 +232,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenPyXL](https://openpyxl.readthedocs.io/) for Excel file handling
 - [Pillow](https://pillow.readthedocs.io/) for image processing
 
-## 📞 Support
 
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/brand-banner-scraper/issues) page
-2. Create a new issue with:
-   - Clear description of the problem
-   - Steps to reproduce
-   - Your environment details (OS, Python version)
-   - Relevant log output
-
----
-
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Harshal]**
