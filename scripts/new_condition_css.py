@@ -13,8 +13,8 @@ from skimage.measure import shannon_entropy
 from playwright.async_api import async_playwright
 
 # ------------- CONFIG -------------
-MIN_WIDTH = 800
-MIN_HEIGHT = 200
+MIN_WIDTH = 720
+MIN_HEIGHT = 720
 MAX_TEXT_RATIO = 0.02
 MAX_CONCURRENT = 5
 # ----------------------------------
