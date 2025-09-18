@@ -6,6 +6,7 @@ It uses **Playwright** (dynamic content), **BeautifulSoup** (static fallback), a
 ---
 
 ## 📂 Project Structure
+```bash 
 TravelMoney/
 ├── scripts/
 │ └── new_condition_css.py # Main script
@@ -16,7 +17,7 @@ TravelMoney/
 ├── requirements.txt # Dependencies
 └── README.md
 
-
+```
 ---
 
 ## ⚙️ Installation
