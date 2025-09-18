@@ -11,7 +11,7 @@ TravelMoney/
 ├── scripts/
 │ └── new_condition_css.py # Main script
 ├── data/
-│ └── Book.csv # Input CSV (merchant_name, merchant_website)
+│ └── studio_results_20250916_1106.csv # Input CSV (merchant_name, merchant_website)
 ├── output/
 │ └── banners_res_4/ # Output images + results.csv
 ├── requirements.txt # Dependencies
@@ -44,7 +44,7 @@ TravelMoney/
 ▶️ Usage
 
 Run the script with:
-python scripts/new_condition_css.py --csv data/Book.csv --output output/banners_res_4
+python scripts/new_condition_css.py --csv data/studio_results_20250916_1106.csv --output output/banners_res_4
 
 📝 Output
 
@@ -68,7 +68,7 @@ merchant_name	merchant_website	banner_image	source
 
 ## 5. Add, Commit & Push
 ```bash
-git add scripts/new_condition_css.py data/Book.csv output/banners_res_4/ requirements.txt README.md
+git add scripts/new_condition_css.py data/studio_results_20250916_1106.csv output/banners_res_4/ requirements.txt README.md
 git commit -m "Add hero banner scraper script with input/output and docs"
 git push origin image-scraper-feature
 
